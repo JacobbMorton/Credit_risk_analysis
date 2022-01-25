@@ -2,14 +2,6 @@
 
 ## Overview
 
-The purpose of this analysis is well defined (4 pt)
+As a credit card company, one of the many challenges you face is accurately determining whether someone is high or low risk. The purpose of this analysis is to take a set of loan/credit card data and apply predictive models to the data and determine a persons risk status.
 
-## Results
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-
-## Summary
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
  
